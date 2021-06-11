@@ -1,0 +1,127 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: helvetica Neue;
+	background-color: blue;
+}
+div#centro{
+	margin-left: 06px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 20px;
+	width: 800px;
+	float: center;
+	text-align: center;
+}
+#titulo{
+	text-align: center;
+
+}
+#im{
+	float: left;
+	margin-right: 925px;
+	margin-left: 10px;
+
+}
+
+.xoom:hover{
+	transform:scale(2);
+	-moz-transform:scale(2);
+	-webkit-transform:scale(2);
+	-o-transform:scale(2);
+}
+#barra{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	height: 1265px;
+	width: 340px;
+	text-align: left;
+	background-color: yellow;
+	font-size: 1.2em;
+
+}
+#menu2{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	height: 340px;
+	width: 200px;
+	text-align: left;
+	background-color: black;
+	font-size: 1.2em;
+
+}
+#menu2 ul{
+	list-style: none;
+	margin: 0;
+	padding: 5;
+}
+#menu2 ul li{
+	display: inline-table;
+}
+#menu2 ul li a{
+	color: white;
+	display: table;
+	padding: 20px;
+	text-decoration: none;
+}
+#mneu2 ul li a:hover{
+	background-color: orange;
+}
+#misionyvision{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	height: 500px;
+	width: 350px;
+	text-align: left;
+	background-color: orange;
+
+}
+#menu{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: right;
+	height: 1250px;
+	width: 350px;
+	text-align: center;
+	background-color: orange;
+	font-size: 1.2em;
+
+}
+#informacion{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 1100;
+	width: 605;
+	text-align: center;
+	background-color: green;
+}
+#direccion{
+	width: 1350px;
+	height: 110px;
+	background-color: green;
+
+	margin-top: 00px;
+	margin-bottom: 00px;
+	margin-left: 180px;
+    margin-right: 10px;
+    text-align: center;
+    float: center;
+}
+
+#menu{
+	background-color: red
+}
